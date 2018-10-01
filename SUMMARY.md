@@ -69,6 +69,17 @@
 * Evaluación final 1
 -->
 
+## Formación continua
+* [Presentación](formacion-continua/0_presentacion.md)
+### Pruebas técnicas
+* [Prueba técnica #1](formacion-continua/1_prueba_tecnica.md)
+* [Prueba técnica #2](formacion-continua/2_prueba_tecnica.md)
+* [Prueba técnica #3](formacion-continua/3_prueba_tecnica.md)
+* [Prueba técnica #4](formacion-continua/4_prueba_tecnica.md)
+* [Prueba técnica #5](formacion-continua/5_prueba_tecnica.md)
+* [Prueba técnica #6](formacion-continua/6_prueba_tecnica.md)
+* [Prueba técnica #7](formacion-continua/7_prueba_tecnica.md)
+
 ## Guías
 * [Instalar un linter de JavaScript](guias/instalar_linter_js.md)
 <!-- * [Guía paso a paso de git](guias/empezar_con_git.md) -->
